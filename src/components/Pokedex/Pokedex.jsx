@@ -10,7 +10,7 @@ function Pokedex() {
 
     return(
         <div className='pokedex-wrapper'>
-            <h1>Pokedex</h1>
+            <h1>Pokiman</h1>
             <Search updateSearchTerm = {setSearchTerm} /> 
             {searchTerm ? <PokemonDetails pokemonName={searchTerm}/> : <PokemonList />}
         </div>

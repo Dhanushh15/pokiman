@@ -38,7 +38,7 @@ A **Pokédex** application built using **React**, allowing users to search, filt
 
 ## 🔄 Installation & Setup
 ```sh
-git clone https://github.com/BharathJP-72/PokeDex.git
+git clone https://github.com/BharathJP-72/Pokiman.git
 cd pokedex-app
 npm install
 npm start

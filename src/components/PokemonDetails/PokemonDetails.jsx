@@ -14,7 +14,7 @@ function PokemonDetails({pokemonName}) {
   
   return (
     <>
-		<h2><Link to="/">Pokedex</Link></h2>
+		<h2><Link to="/">Pokiman</Link></h2>
 		{pokemon && <div className='pokemon-details-wrapper'>
 			<div>
 				{pokemon.name}
